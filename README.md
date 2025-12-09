@@ -68,5 +68,5 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  https://github-readme-stats-godkingjay.vercel.app/api/top-langs?username=theshriramgupta&layout=compact
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theshriramgupta&theme=github_dark" />
 </p>
